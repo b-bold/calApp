@@ -1,3 +1,7 @@
+Hi I'm a developer looking to continue growing my skills. I really enjoy building performant back end applications and my most recent work experience has been with React. As a result, I'd like to play around with it a bit more. 
+
+This is a single page calendar application. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -6,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
